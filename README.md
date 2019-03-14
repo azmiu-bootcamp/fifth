@@ -1,3 +1,5 @@
+Növbəti dərs 18.03.2019 arixində olacaq.
+
 https://classroom.github.com/a/m6-RxH9f - bu linkdən istifadə edərək məsələri öz github-nıza ələvə edin.
 
 **Condition exercises**
